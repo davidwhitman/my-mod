@@ -10,7 +10,7 @@
     # Bitbucket, GitHub, and other online repositories make excellent hosts.
     #
     "masterVersionFile":"https://raw.githubusercontent.com/davidwhitman/Gates-Awakened/master/gates_awakened.version",
-
+/
     # The name that is displayed in-game for your mod
     "modName":"Gates Awakened",
 
